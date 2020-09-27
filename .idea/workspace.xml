@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b22176ed-2ef1-4960-b128-9ab87cb8d848" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/talkgo_ algorithm/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/talkgo_ algorithm/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/talkgo_ algorithm/s02/all_in_string_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/talkgo_ algorithm/s01/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/talkgo_ algorithm/s01/go.sum" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +55,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../learn_go" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -165,22 +160,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="847" y="399" key="EnvironmentVariablesDialog/1920.7.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1599739783689" />
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1600665623891">
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1600915089125">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom/1920.7.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1600665623891" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1600665623891">
+    <state x="740" y="295" key="FileChooserDialogImpl/1920.7.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1600915089125" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1600761513399">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.center/1920.7.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1600665623891" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1600665623891">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/1920.7.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1600761513399" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1600761513399">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.left/1920.7.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1600665623891" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1600665623891">
+    <state width="1877" height="295" key="GridCell.Tab.0.center/1920.7.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1600761513399" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1600761513398">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.right/1920.7.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1600665623891" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left/1920.7.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1600761513398" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1600761513399">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/1920.7.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1600761513399" />
     <state x="461" y="184" key="SettingsEditor" timestamp="1599740154278">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
