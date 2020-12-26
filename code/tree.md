@@ -13,17 +13,16 @@
 
 **思路：**直接使用队列就好，这里有个小技巧，每次遍历一层的时候先把该层的数目记下`n=len(queue)`，用标记记下来n个数据为该层的元素，避免后面插入新的数据后造成混乱，也可以节省辅助数组的空间。
 
-题解：
+题解
 
-``` go
-/**
- * Definition for a binary tree node.
- * type TreeNode struct {
- *     Val int
- *     Left *TreeNode
- *     Right *TreeNode
- * }
- */
+```
+// Definition for a binary tree node.
+type TreeNode struct {
+    Val int
+    Left *TreeNode
+    Right *TreeNode
+}
+
 
 
 func averageOfLevels(root *TreeNode) (res []float64) {
